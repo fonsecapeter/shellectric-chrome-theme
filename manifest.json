@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Shellectric Theme",
+  "description": "Easy on the eyes, retro colors inspired by 70's design.",
+  "version": "1.0.0",
+  "icons": {},
+  "theme": {
+    "colors": {
+      "frame": [44, 48, 53],
+      "frame_inactive": [70, 77, 81],
+      "frame_incognito": [44, 48, 53],
+      "frame_incognito_inactive": [70, 77, 81],
+      "toolbar": [70, 77, 81],
+      "tab_text": [245, 230, 194],
+      "tab_background_text": [148, 161, 168],
+      "bookmark_text": [245, 230, 194]
+    },
+    "tints": {
+      "buttons": [-1, -1, 0.95]
+    }
+  }
+}
