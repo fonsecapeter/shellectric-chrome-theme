@@ -3,7 +3,11 @@
   "name": "Shellectric Theme",
   "description": "Easy on the eyes, retro colors inspired by 70's design.",
   "version": "1.0.0",
-  "icons": {},
+  "icons": {
+    "16": "media/shellectric16.png",
+    "48": "media/shellectric48.png",
+    "128": "media/shellectric128.png"
+  },
   "theme": {
     "colors": {
       "frame": [44, 48, 53],
@@ -13,7 +17,7 @@
       "toolbar": [70, 77, 81],
       "tab_text": [245, 230, 194],
       "tab_background_text": [148, 161, 168],
-      "bookmark_text": [245, 230, 194]
+      "bookmark_text": [148, 161, 168]
     },
     "tints": {
       "buttons": [-1, -1, 0.95]
